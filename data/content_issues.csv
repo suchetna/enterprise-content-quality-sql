@@ -1,0 +1,51 @@
+issue_id,asset_id,issue_type,issue_description,severity,issue_status,identified_date,assigned_owner_id,resolution_date,root_cause,corrective_action,recurrence_flag
+1,4,Missing Metadata,Campaign metadata missing,High,Resolved,2026-01-10,7,2026-01-12,Incomplete publishing checklist,Updated metadata template,0
+2,4,Accessibility,Missing alt text on images,Medium,Resolved,2026-01-10,7,2026-01-13,Accessibility review skipped,Added accessibility QA,0
+3,6,Missing Metadata,Campaign field empty,Medium,Open,2026-02-01,6,,Manual content upload,Pending metadata update,1
+4,6,Invalid Taxonomy,Programme value not approved,High,In Progress,2026-02-01,6,,Outdated taxonomy list,Taxonomy review scheduled,1
+5,7,Expired Content,Factsheet expired,High,Resolved,2026-06-01,4,2026-06-03,Monthly update delay,Automated expiry alerts,0
+6,8,Expired Content,Factsheet expired,High,Resolved,2026-07-01,4,2026-07-02,Publishing delay,Updated publishing calendar,0
+7,10,Duplicate Content,Duplicate investment article detected,Medium,Resolved,2026-03-15,5,2026-03-17,Content reuse without review,Merged duplicate assets,0
+8,11,Duplicate Content,Duplicate of Asset 10,Medium,Resolved,2026-03-15,5,2026-03-17,Duplicate publishing,Merged duplicate assets,0
+9,12,Expired Content,White paper expired,High,Open,2026-07-02,7,,Review cycle missed,Pending update,1
+10,13,Distribution Failure,Email failed for EMEA recipients,Critical,Resolved,2026-02-13,2,2026-02-14,SMTP timeout,Retried distribution,0
+11,14,Distribution Failure,Partial email delivery,High,Resolved,2026-02-20,2,2026-02-20,Mail gateway issue,Retried campaign,0
+12,15,Missing Metadata,Draft missing publication date,Medium,Open,2026-02-25,2,,Author omitted field,Awaiting publication,0
+13,15,Content Accuracy,Compliance disclaimer missing,Critical,In Progress,2026-02-25,2,,Legal review pending,Compliance review initiated,0
+14,16,Expired Content,Landing page expired,High,Open,2026-05-01,1,,Campaign closed,Pending archive,0
+15,16,Accessibility,Colour contrast failure,Medium,Resolved,2026-04-20,1,2026-04-23,Template issue,Updated CSS,0
+16,17,Broken Link,Video transcript unavailable,Low,Resolved,2026-03-25,3,2026-03-26,Incorrect URL,Updated transcript link,0
+17,18,Incorrect Ownership,Owner changed after restructure,Medium,Resolved,2026-04-01,2,2026-04-02,HR update delay,Ownership corrected,0
+18,19,Content Accuracy,Fund performance disclaimer outdated,Critical,Resolved,2026-04-22,7,2026-04-23,Regulatory update,Updated disclosure,0
+19,20,Missing Metadata,Campaign not assigned,Medium,Open,2026-05-05,6,,Incomplete upload,Pending review,1
+20,20,Expired Content,Factsheet expired,High,Resolved,2026-07-01,6,2026-07-02,Missed monthly refresh,Automated reminder,0
+21,21,Missing Metadata,Product name missing,Medium,Open,2026-02-10,5,,Legacy content,Awaiting review,1
+22,22,Distribution Failure,Partner portal sync failed,High,Resolved,2026-02-15,9,2026-02-15,API timeout,Resynchronised portal,0
+23,23,Accessibility,PDF not screen-reader compliant,Medium,Open,2026-03-18,7,,Old PDF template,Accessibility remediation planned,1
+24,24,Content Accuracy,Presentation missing latest market data,High,Resolved,2026-06-08,3,2026-06-09,Late analyst update,Slides refreshed,0
+25,25,Expired Content,Guide no longer valid,High,Closed,2026-05-02,6,2026-05-04,Product retired,Archived guide,0
+26,26,Broken Link,External market reference broken,Low,Resolved,2026-05-20,7,2026-05-20,Website update,Corrected URL,0
+27,27,Invalid Taxonomy,Audience classification incorrect,Medium,Resolved,2026-03-20,2,2026-03-21,Manual tagging error,Corrected taxonomy,0
+28,28,Accessibility,Infographic lacks alternative description,Medium,Open,2026-04-15,5,,Design oversight,Pending redesign,1
+29,29,Content Accuracy,Market statistics require update,Medium,Resolved,2026-07-06,3,2026-07-07,Quarter-end revision,Updated commentary,0
+30,30,Incorrect Ownership,Legacy owner inactive,Critical,Open,2026-06-10,10,,Organisation restructure,Pending reassignment,1
+31,30,Expired Content,Archived microsite still indexed,High,Open,2026-06-12,10,,Search engine cache,Awaiting deindexing,1
+32,6,Broken Link,One CTA button returns 404,Medium,Resolved,2026-02-05,6,2026-02-06,URL migration,Corrected link,0
+33,4,Content Accuracy,Old ESG terminology used,Medium,Resolved,2026-02-15,7,2026-02-16,Updated policy,Revised copy,0
+34,21,Duplicate Content,Glossary duplicated internally,Low,Open,2026-05-10,5,,Migration issue,Pending merge,1
+35,17,Distribution Failure,Video failed on mobile app,Medium,Resolved,2026-03-28,3,2026-03-29,Encoding mismatch,Re-encoded video,0
+36,18,Missing Metadata,Review date missing,Low,Resolved,2026-01-20,2,2026-01-20,Author oversight,Added review date,0
+37,12,Broken Link,Download button unavailable,Medium,Resolved,2026-06-25,7,2026-06-26,CMS migration,Updated download path,0
+38,28,Missing Metadata,Audience missing,Medium,Open,2026-04-16,5,,Incomplete template,Pending review,1
+39,24,Accessibility,Presentation missing captions,Low,Resolved,2026-06-10,3,2026-06-11,Accessibility review missed,Captions added,0
+40,3,Content Accuracy,Toolkit references retired fund,High,Resolved,2026-02-18,2,2026-02-19,Portfolio changes,Updated documentation,0
+41,9,Distribution Failure,Partner portal cache issue,Medium,Resolved,2026-06-04,4,2026-06-05,Cache corruption,Cache refreshed,0
+42,13,Content Accuracy,Typographical error in disclaimer,Low,Closed,2026-02-14,2,2026-02-14,Editorial oversight,Proofreading updated,0
+43,19,Missing Metadata,Campaign tag inconsistent,Low,Resolved,2026-04-21,7,2026-04-21,Manual tagging,Corrected tag,0
+44,2,Accessibility,Heading hierarchy incorrect,Low,Resolved,2026-01-25,1,2026-01-26,Template issue,Updated heading structure,0
+45,1,Content Accuracy,Benchmark name updated,Low,Resolved,2026-01-15,3,2026-01-15,Market update,Content refreshed,0
+46,5,Distribution Failure,Email attachment missing,Critical,Resolved,2026-04-05,3,2026-04-05,Packaging error,Reissued email,0
+47,26,Missing Metadata,Keyword metadata incomplete,Low,Open,2026-05-22,7,,SEO fields skipped,Pending enrichment,1
+48,22,Content Accuracy,Checklist version outdated,Medium,Resolved,2026-02-18,9,2026-02-19,Version control issue,Uploaded latest version,0
+49,8,Broken Link,Reference document unavailable,Low,Resolved,2026-05-10,4,2026-05-11,File moved,Updated reference,0
+50,30,Accessibility,Legacy page fails WCAG checks,Critical,Open,2026-06-15,10,,Legacy platform,Full redesign required,1
