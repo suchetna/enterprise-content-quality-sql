@@ -43,6 +43,18 @@ Large organisations publish thousands of content assets across regions, channels
 - limited performance visibility
 
 This project uses SQL to identify those problems and produce actionable insights for content, marketing, product, and technology stakeholders.
+```mermaid
+flowchart LR
+    A[Business Teams] --> B[Content Assets]
+    B --> C[Metadata Validation]
+    C --> D[Taxonomy Governance]
+    D --> E[Content Quality Checks]
+    E --> F[Issue Triage & Remediation]
+    F --> G[Distribution Monitoring]
+    G --> H[Content Analytics]
+    H --> I[Executive Dashboards]
+    I --> J[Continuous Improvement]
+```
 
 ## Key Business Questions
 
