@@ -1,0 +1,10 @@
+taxonomy_id,taxonomy_type,taxonomy_value,parent_value,approved_status,effective_date,retirement_date
+1,Region,EMEA,,1,2024-01-01,
+2,Region,North America,,1,2024-01-01,
+3,Region,Global,,1,2024-01-01,
+4,Campaign,Retirement Readiness,,1,2024-01-01,
+5,Campaign,Market Outlook,,1,2024-01-01,
+6,Campaign,Sustainable Investing,,1,2024-01-01,
+7,Campaign,Advisor Enablement,,1,2024-01-01,
+8,Programme,Investor Education,,1,2024-01-01,
+9,Programme
