@@ -1,5 +1,16 @@
 # Enterprise Content Stewardship & Quality Analytics Using SQL
+**Status:** 🚧 In Progress
 
+Skills Demonstrated
+
+- SQL
+- Metadata Management
+- Taxonomy Design
+- Content Stewardship
+- Data Quality
+- Enterprise Content Governance
+- Analytics
+- KPI Reporting
 ## Project Overview
 
 This portfolio project demonstrates how SQL can be used to govern, analyse, and improve the quality, accessibility, classification, distribution, and performance of enterprise content.
