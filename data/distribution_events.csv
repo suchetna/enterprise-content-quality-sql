@@ -1,11 +1,101 @@
 distribution_id,asset_id,distribution_date,region,channel,destination_system,distribution_status,error_code,error_description,retry_count,delivery_time_seconds
-1,1,2026-01-05,Global,Website,Adobe Experience Manager,Delivered,,,0,18
-2,2,2026-01-18,EMEA,Website,Adobe Experience Manager,Delivered,,,0,22
-3,3,2026-02-02,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,27
-4,4,2025-09-01,EMEA,Website,Adobe Experience Manager,Delivered,,,0,21
-5,5,2026-04-05,Global,Email,Marketo,Delivered,,,0,9
-6,6,2025-10-24,North America,Website,Adobe Experience Manager,Delivered,,,0,24
-7,7,2026-04-03,Global,Partner Portal,Salesforce Experience Cloud,Failed,HTTP500,Internal server error,2,0
-8,8,2026-05-04,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,1,31
-9,9,2026-06-03,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,16
-10,10,2024-03-01,Global,Website,Adobe Experience Manager,Delivered,,,0,19
+1,1,2026-01-04,Global,Website,Adobe Experience Manager,Delivered,,,0,25
+2,2,2026-01-07,EMEA,Website,Adobe Experience Manager,Delivered,,,0,14
+3,3,2026-01-10,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,1,13
+4,4,2026-01-13,EMEA,Website,Adobe Experience Manager,Delivered,,,0,13
+5,5,2026-01-16,Global,Email,Marketo,Delivered,,,0,9
+6,6,2026-01-19,North America,Website,Adobe Experience Manager,Delivered,,,0,42
+7,7,2026-01-22,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,25
+8,8,2026-01-25,Global,Partner Portal,Salesforce Experience Cloud,Failed,API_TIMEOUT,API timeout,1,0
+9,9,2026-01-28,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,17
+10,10,2026-01-31,Global,Website,Adobe Experience Manager,Delivered,,,0,14
+11,11,2026-02-03,Global,Website,Adobe Experience Manager,Delivered,,,0,30
+12,12,2026-02-06,EMEA,Website,Adobe Experience Manager,Delivered,,,0,37
+13,13,2026-02-09,North America,Email,Marketo,Delivered,,,1,32
+14,14,2026-02-12,North America,Email,Marketo,Delivered,,,0,31
+15,15,2026-02-15,North America,Email,Marketo,Delivered,,,0,10
+16,16,2026-02-18,EMEA,Website,Adobe Experience Manager,Delivered,,,0,13
+17,17,2026-02-21,Global,Video Platform,Brightcove,Failed,ENCODE415,Unsupported video encoding,2,0
+18,18,2026-02-24,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,31
+19,19,2026-02-27,EMEA,Email,Marketo,Delivered,,,0,25
+20,20,2026-03-02,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,12
+21,21,2026-03-05,Global,Website,Adobe Experience Manager,Delivered,,,0,23
+22,22,2026-03-08,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,43
+23,23,2026-03-11,EMEA,Website,Adobe Experience Manager,Delivered,,,0,11
+24,24,2026-03-14,Global,Internal Portal,SharePoint,Delivered,,,0,28
+25,25,2026-03-17,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,44
+26,26,2026-03-20,EMEA,Website,Adobe Experience Manager,Partially Delivered,HTTP404,Destination page not found,1,66
+27,27,2026-03-23,North America,Website,Adobe Experience Manager,Delivered,,,1,37
+28,28,2026-03-26,Global,Social Media,Hootsuite,Delivered,,,0,43
+29,29,2026-03-29,Global,Email,Marketo,Delivered,,,0,35
+30,30,2026-04-01,EMEA,Website,Adobe Experience Manager,Partially Delivered,HTTP404,Destination page not found,2,39
+31,1,2026-02-03,Global,Website,Adobe Experience Manager,Queued,,,0,0
+32,2,2026-02-06,EMEA,Website,Adobe Experience Manager,Delivered,,,0,11
+33,3,2026-02-09,North America,Partner Portal,Salesforce Experience Cloud,Partially Delivered,API_TIMEOUT,API timeout,3,35
+34,4,2026-02-12,EMEA,Website,Adobe Experience Manager,Failed,HTTP404,Destination page not found,3,0
+35,5,2026-02-15,Global,Email,Marketo,Delivered,,,0,37
+36,6,2026-02-18,North America,Website,Adobe Experience Manager,Delivered,,,1,8
+37,7,2026-02-21,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,42
+38,8,2026-02-24,Global,Partner Portal,Salesforce Experience Cloud,Failed,SYNC409,Content sync conflict,2,0
+39,9,2026-02-27,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,37
+40,10,2026-03-02,Global,Website,Adobe Experience Manager,Delivered,,,0,24
+41,11,2026-03-05,Global,Website,Adobe Experience Manager,Queued,,,0,0
+42,12,2026-03-08,EMEA,Website,Adobe Experience Manager,Failed,CACHE01,Cache refresh failure,1,0
+43,13,2026-03-11,North America,Email,Marketo,Partially Delivered,BOUNCE_RATE,Bounce threshold exceeded,3,57
+44,14,2026-03-14,North America,Email,Marketo,Delivered,,,0,18
+45,15,2026-03-17,North America,Email,Marketo,Delivered,,,0,41
+46,16,2026-03-20,EMEA,Website,Adobe Experience Manager,Partially Delivered,CACHE01,Cache refresh failure,2,56
+47,17,2026-03-23,Global,Video Platform,Brightcove,Delivered,,,1,27
+48,18,2026-03-26,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,44
+49,19,2026-03-29,EMEA,Email,Marketo,Partially Delivered,SMTP_TIMEOUT,SMTP timeout,3,56
+50,20,2026-04-01,North America,Partner Portal,Salesforce Experience Cloud,Failed,SYNC409,Content sync conflict,1,0
+51,21,2026-04-04,Global,Website,Adobe Experience Manager,Delivered,,,0,43
+52,22,2026-04-07,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,35
+53,23,2026-04-10,EMEA,Website,Adobe Experience Manager,Queued,,,0,0
+54,24,2026-04-13,Global,Internal Portal,SharePoint,Partially Delivered,SP_SYNC,SharePoint sync failure,3,44
+55,25,2026-04-16,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,31
+56,26,2026-04-19,EMEA,Website,Adobe Experience Manager,Delivered,,,0,15
+57,27,2026-04-22,North America,Website,Adobe Experience Manager,Delivered,,,0,9
+58,28,2026-04-25,Global,Social Media,Hootsuite,Delivered,,,0,22
+59,29,2026-04-28,Global,Email,Marketo,Delivered,,,0,11
+60,30,2026-05-01,EMEA,Website,Adobe Experience Manager,Delivered,,,1,29
+61,1,2026-03-05,Global,Website,Adobe Experience Manager,Delivered,,,0,39
+62,2,2026-03-08,EMEA,Website,Adobe Experience Manager,Delivered,,,0,44
+63,3,2026-03-11,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,38
+64,4,2026-03-14,EMEA,Website,Adobe Experience Manager,Failed,HTTP500,Internal server error,1,0
+65,5,2026-03-17,Global,Email,Marketo,Delivered,,,0,35
+66,6,2026-03-20,North America,Website,Adobe Experience Manager,Delivered,,,1,11
+67,7,2026-03-23,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,1,14
+68,8,2026-03-26,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,14
+69,9,2026-03-29,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,36
+70,10,2026-04-01,Global,Website,Adobe Experience Manager,Delivered,,,0,37
+71,11,2026-04-04,Global,Website,Adobe Experience Manager,Delivered,,,1,36
+72,12,2026-04-07,EMEA,Website,Adobe Experience Manager,Failed,CACHE01,Cache refresh failure,1,0
+73,13,2026-04-10,North America,Email,Marketo,Delivered,,,1,8
+74,14,2026-04-13,North America,Email,Marketo,Queued,,,0,0
+75,15,2026-04-16,North America,Email,Marketo,Partially Delivered,SMTP_TIMEOUT,SMTP timeout,1,51
+76,16,2026-04-19,EMEA,Website,Adobe Experience Manager,Delivered,,,0,33
+77,17,2026-04-22,Global,Video Platform,Brightcove,Partially Delivered,ENCODE415,Unsupported video encoding,2,25
+78,18,2026-04-25,North America,Partner Portal,Salesforce Experience Cloud,Queued,,,0,0
+79,19,2026-04-28,EMEA,Email,Marketo,Delivered,,,0,37
+80,20,2026-05-01,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,43
+81,21,2026-05-04,Global,Website,Adobe Experience Manager,Delivered,,,0,20
+82,22,2026-05-07,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,1,45
+83,23,2026-05-10,EMEA,Website,Adobe Experience Manager,Delivered,,,0,28
+84,24,2026-05-13,Global,Internal Portal,SharePoint,Delivered,,,0,40
+85,25,2026-05-16,Global,Partner Portal,Salesforce Experience Cloud,Partially Delivered,SYNC409,Content sync conflict,1,28
+86,26,2026-05-19,EMEA,Website,Adobe Experience Manager,Queued,,,0,0
+87,27,2026-05-22,North America,Website,Adobe Experience Manager,Delivered,,,0,12
+88,28,2026-05-25,Global,Social Media,Hootsuite,Delivered,,,0,15
+89,29,2026-05-28,Global,Email,Marketo,Partially Delivered,ATTACH_MISSING,Attachment packaging error,1,62
+90,30,2026-05-31,EMEA,Website,Adobe Experience Manager,Delivered,,,0,34
+91,1,2026-04-04,Global,Website,Adobe Experience Manager,Delivered,,,0,28
+92,2,2026-04-07,EMEA,Website,Adobe Experience Manager,Partially Delivered,HTTP500,Internal server error,3,70
+93,3,2026-04-10,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,16
+94,4,2026-04-13,EMEA,Website,Adobe Experience Manager,Delivered,,,0,28
+95,5,2026-04-16,Global,Email,Marketo,Partially Delivered,SMTP_TIMEOUT,SMTP timeout,1,54
+96,6,2026-04-19,North America,Website,Adobe Experience Manager,Delivered,,,0,14
+97,7,2026-04-22,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,24
+98,8,2026-04-25,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,12
+99,9,2026-04-28,Global,Partner Portal,Salesforce Experience Cloud,Partially Delivered,AUTH401,Authentication failure,2,35
+100,10,2026-05-01,Global,Website,Adobe Experience Manager,Delivered,,,0,27
