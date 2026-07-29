@@ -1,5 +1,12 @@
 # Enterprise Content Stewardship & Quality Analytics Using SQL
-**Status:** 🚧 In Progress
+![Status](https://img.shields.io/badge/status-In%20Progress-orange)
+Repository Structure
+
+7 Tables
+10 SQL Queries
+6 CSV Datasets
+1 Executive Dashboard
+1 Documentation Folder
 
 Skills Demonstrated
 
@@ -11,6 +18,18 @@ Skills Demonstrated
 - Enterprise Content Governance
 - Analytics
 - KPI Reporting
+## Table of Contents
+
+- Project Overview
+- Business Context
+- Enterprise Content Stewardship Workflow
+- Dataset
+- Database Schema
+- SQL Queries
+- Business Questions
+- Findings
+- Dashboard
+- Future Enhancements
 ## Project Overview
 
 This portfolio project demonstrates how SQL can be used to govern, analyse, and improve the quality, accessibility, classification, distribution, and performance of enterprise content.
@@ -27,6 +46,13 @@ It simulates the work of a Senior Content Steward responsible for:
 - evaluating client engagement
 - supporting content owners and technology teams
 - developing reports for senior leadership
+## Business Scenario
+
+A global investment management organisation publishes thousands of digital assets each month across multiple regions, products, campaigns and customer segments.
+
+As the volume of content grows, governance challenges emerge, including inconsistent metadata, duplicate assets, outdated content, taxonomy errors and delayed issue resolution.
+
+This project demonstrates how SQL can be used to identify these issues, improve content quality, support enterprise content stewardship and provide actionable reporting for business and technology stakeholders.
 
 ## Business Context
 
@@ -115,6 +141,18 @@ No confidential, proprietary, client, employer, or investment data is used.
 - content-quality score
 - executive content-governance view
 
+- ## Expected Business Outcomes
+
+This solution helps organisations:
+
+- Improve metadata completeness
+- Increase taxonomy consistency
+- Reduce duplicate content
+- Identify expired assets
+- Improve content discoverability
+- Reduce issue resolution time
+- Improve executive reporting
+
 ## Tools
 
 - SQL
@@ -122,7 +160,11 @@ No confidential, proprietary, client, employer, or investment data is used.
 - Microsoft Excel
 - GitHub
 - Power BI or Looker Studio for optional dashboard visualisation
+## Executive Summary
 
+This project demonstrates how enterprise SQL can support modern content stewardship through metadata validation, taxonomy governance, issue tracking, content quality measurement and executive reporting.
+
+The project combines relational database design, SQL analytics and governance best practices to simulate a real-world enterprise content operations environment.
 ## Project Status
 
 This project is currently under active development.
