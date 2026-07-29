@@ -1,0 +1,11 @@
+distribution_id,asset_id,distribution_date,region,channel,destination_system,distribution_status,error_code,error_description,retry_count,delivery_time_seconds
+1,1,2026-01-05,Global,Website,Adobe Experience Manager,Delivered,,,0,18
+2,2,2026-01-18,EMEA,Website,Adobe Experience Manager,Delivered,,,0,22
+3,3,2026-02-02,North America,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,27
+4,4,2025-09-01,EMEA,Website,Adobe Experience Manager,Delivered,,,0,21
+5,5,2026-04-05,Global,Email,Marketo,Delivered,,,0,9
+6,6,2025-10-24,North America,Website,Adobe Experience Manager,Delivered,,,0,24
+7,7,2026-04-03,Global,Partner Portal,Salesforce Experience Cloud,Failed,HTTP500,Internal server error,2,0
+8,8,2026-05-04,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,1,31
+9,9,2026-06-03,Global,Partner Portal,Salesforce Experience Cloud,Delivered,,,0,16
+10,10,2024-03-01,Global,Website,Adobe Experience Manager,Delivered,,,0,19
