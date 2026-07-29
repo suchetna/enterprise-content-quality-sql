@@ -1,4 +1,4 @@
-# Enterprise Content Quality & Taxonomy Analytics Using SQL
+# Enterprise Content Stewardship & Quality Analytics Using SQL
 
 ## Project Overview
 
