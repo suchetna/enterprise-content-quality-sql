@@ -1,1 +1,107 @@
-# enterprise-content-quality-sql
+# Enterprise Content Quality & Taxonomy Analytics Using SQL
+
+## Project Overview
+
+This portfolio project demonstrates how SQL can be used to govern, analyse, and improve the quality, accessibility, classification, distribution, and performance of enterprise content.
+
+The project models a global content ecosystem containing web pages, investment insights, campaign assets, product content, reports, newsletters, and digital resources distributed across EMEA and North America.
+
+It simulates the work of a Senior Content Steward responsible for:
+
+- maintaining content integrity
+- identifying metadata and taxonomy issues
+- analysing content-distribution failures
+- measuring content quality
+- monitoring issue resolution
+- evaluating client engagement
+- supporting content owners and technology teams
+- developing reports for senior leadership
+
+## Business Context
+
+Large organisations publish thousands of content assets across regions, channels, products, campaigns, and audiences. Without strong governance, these ecosystems develop recurring problems such as:
+
+- missing metadata
+- inconsistent taxonomy
+- duplicate content
+- expired assets
+- inaccessible content
+- failed distribution
+- unclear ownership
+- slow issue resolution
+- limited performance visibility
+
+This project uses SQL to identify those problems and produce actionable insights for content, marketing, product, and technology stakeholders.
+
+## Key Business Questions
+
+1. Which content assets have incomplete mandatory metadata?
+2. Which taxonomy values are inconsistent or invalid?
+3. Which assets are duplicated, expired, or orphaned?
+4. Which content-distribution errors recur most frequently?
+5. How long does each type of content issue take to resolve?
+6. Which regions, channels, formats, and content categories generate the strongest engagement?
+7. Which content owners have the largest remediation backlog?
+8. Which assets should be prioritised for remediation?
+9. How can content quality be measured consistently?
+10. What trends should be reported to senior leadership?
+
+## Dataset
+
+The project uses a fictional enterprise dataset created solely for learning and portfolio demonstration.
+
+The dataset includes:
+
+- content assets
+- taxonomy values
+- metadata fields
+- content owners
+- distribution events
+- quality issues
+- remediation status
+- regional usage
+- client-engagement metrics
+
+No confidential, proprietary, client, employer, or investment data is used.
+
+## SQL Skills Demonstrated
+
+- relational database design
+- primary and foreign keys
+- joins
+- common table expressions
+- aggregate functions
+- subqueries
+- CASE statements
+- date calculations
+- data-quality validation
+- window functions
+- ranking
+- issue trend analysis
+- KPI calculations
+- reusable SQL views
+
+## Planned Outputs
+
+- metadata-completeness audit
+- taxonomy-consistency report
+- duplicate and expired-content report
+- distribution-failure analysis
+- issue-resolution dashboard
+- regional engagement analysis
+- content-quality score
+- executive content-governance view
+
+## Tools
+
+- SQL
+- SQLite or PostgreSQL
+- Microsoft Excel
+- GitHub
+- Power BI or Looker Studio for optional dashboard visualisation
+
+## Project Status
+
+This project is currently under active development.
+
+The database schema, sample datasets, analytical queries, and findings will be added in structured stages.
